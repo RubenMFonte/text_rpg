@@ -1,0 +1,4 @@
+﻿  Player.cpp
+c:\users\ruben\source\repos\text rpg\text rpg\player.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\ruben\source\repos\text rpg\text rpg\player.cpp(224): warning C4018: '<=': signed/unsigned mismatch
+  Text RPG.vcxproj -> C:\Users\Ruben\source\repos\Text RPG\Debug\Text RPG.exe
